@@ -10,7 +10,8 @@
   ```
   ```
   conda activate Emotion_Venv
-  
+
+  ```
   ```
   pip install -r requirements.txt
   ```
